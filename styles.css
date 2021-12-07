@@ -2,3 +2,7 @@ logo {
   width: 48px;
   height: 48px;
 }
+
+li {
+  display: inline;
+}
