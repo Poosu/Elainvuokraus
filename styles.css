@@ -13,5 +13,6 @@
 }
 
 .navbar {
-  background-color: #71b1ec;
+  background-color: indigo;
+  opacity: 0.5;
 }
