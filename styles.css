@@ -8,6 +8,6 @@
   height:850px;
 }
 
-.navbar-nav { 
-    flex-direction: row;
+.nav.navbar-nav li {
+    float: left;
 }
