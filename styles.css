@@ -19,3 +19,8 @@
 .navbar {
   background-color: #fffdd0;
 }
+
+.navbar-item {
+  text-align: center;
+  font-size: large;
+}
