@@ -3,9 +3,8 @@
   height: 96px;
 }
 
-.carousel-inner > .item > img {
-  width:1600px;
-  height:800px;
+.carousel-item {
+  height:32rem;
 }
 
 .menu li {
