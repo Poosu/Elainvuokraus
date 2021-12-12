@@ -7,6 +7,11 @@
   padding-bottom: 200px;
 }
 
+#eläinBoxi {
+  background-image: url("tausta1.jpeg");
+  opacity: 0.5;
+}
+
 .column {
   float: left;
   width: 33.33%;
