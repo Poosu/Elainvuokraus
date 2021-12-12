@@ -19,6 +19,10 @@
   }
 }
 
+#yhteys {
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("tausta1.jpeg");
+}
+
 #Kuponki {
 width: 800px;
 height: auto;
