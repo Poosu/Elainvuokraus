@@ -30,11 +30,13 @@
 .carousel-caption h5 {
   font-size: 80px;
   font-weight: 700;
+  bottom: 200px;
 }
 
 .carousel-caption p {
   font-size 25px;
   top: 2rem;
+  bottom 200px;
 }
 
 .slider-btn .btn {
@@ -42,6 +44,7 @@
   columns: white;
   border radius: 0;
   font-size: 1rem;
+  bottom: 200px;
 }
   
 
