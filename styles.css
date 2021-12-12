@@ -23,14 +23,8 @@
   background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("tausta1.jpeg");
 }
 
-#Kuponki {
-width: 800px;
-height: auto;
-}
 
-#otsikkoE {
-  padding-bottom: 450px;
-}
+
 
 #eläinBoxi {
   background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("tausta1.jpeg");
@@ -66,6 +60,8 @@ div.container {
 .carousel-item {
   height:55rem;
   background-size: cover;
+  position: relative;
+  text-align: center;
 }
 
 .carousel-item: :before {
@@ -80,21 +76,20 @@ div.container {
 }
 
 .carousel-caption d-none d-md-block {
-  padding-bottom: 200px;
-  padding-left: 100px;
-  padding-right: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .carousel-caption h5 {
   font-size: 80px;
   font-weight: 700;
-  bottom: 200px;
 }
 
 .carousel-caption p {
   font-size 25px;
   top: 2rem;
-  bottom 200px;
 }
 
 .slider-btn .btn {
