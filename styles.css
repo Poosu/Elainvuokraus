@@ -12,9 +12,10 @@
 #Kuponki {
   border: 1px solid;
   padding: 10px;
-  box-shadow: 10px 20px;
+  box-shadow: 10px 10px;
   background-image: url(https://images.pexels.com/photos/250177/pexels-photo-250177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
   background-size: cover;
+  text-indent: -9999px;
   text-align: center;
 }
 
