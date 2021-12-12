@@ -3,10 +3,20 @@
   height: 96px;
 }
 
+.contact-form{
+    margin-top: 30px;
+}
 #eläimet {
   align: center;
   padding: 20px;
   font-weight: bold;
+}
+
+@media (min-width: 768px) { 
+  .contact-wrap{
+    width: 60%;
+    margin: auto;
+  }
 }
 
 #Kuponki {
