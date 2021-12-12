@@ -21,8 +21,8 @@
   opacity: 0.7;
 }
 
-.carousel-caption {
-  bottom: 20rem;
+.carousel-caption d-none d-md-block {
+  bottom: 200px;
   padding-left: 100px;
   padding-right: 100px;
 }
