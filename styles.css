@@ -5,7 +5,44 @@
 
 .carousel-item {
   height:45rem;
+  background-size: cover;
 }
+
+.carousel-item: :before {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: black;
+  opacity: 0.9;
+}
+
+.carousel-caption {
+  bottom: 220px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.carousel-caption h5 {
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.carousel-caption p {
+  font-size 25px;
+  top: 2rem;
+}
+
+.slider-btn .btn {
+  background-color: green;
+  columns: white;
+  border radius: 0;
+  font-size: 1rem;
+}
+  
+
 
 .menu li {
   display:inline-block;
