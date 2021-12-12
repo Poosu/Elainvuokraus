@@ -3,6 +3,10 @@
   height: 96px;
 }
 
+#otsikkoE {
+  padding-bottom: 200px;
+}
+
 .column {
   float: left;
   width: 33.33%;
