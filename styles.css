@@ -12,6 +12,10 @@
   font-weight: bold;
 }
 
+#otsikkoE {
+  padding-bottom: 300px;
+}
+
 @media (min-width: 768px) { 
   .contact-wrap{
     width: 60%;
