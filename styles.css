@@ -23,7 +23,11 @@
   background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("tausta1.jpeg");
 }
 
-
+#kinkku {
+  border-radius: 8px;
+  width: 50%;
+  height: 200px;
+}
 
 
 #eläinBoxi {
