@@ -88,8 +88,7 @@ div.container {
 }
 
 .carousel-item {
-  height:55rem;
-  background-size: cover;
+  height:50rem;
   position: relative;
   text-align: center;
 }
